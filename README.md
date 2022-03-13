@@ -1,2 +1,3 @@
 # hello-world
-有用
+我的自我介绍
+my name is LJW
